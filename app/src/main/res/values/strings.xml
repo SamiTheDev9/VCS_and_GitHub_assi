@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VCS_and_GitHub_assi</string>
+    <string name="submit">Submit</string>
+    <string name="please_enter_your_password">Please enter your Password</string>
+    <string name="password">Password</string>
+    <string name="please_enter_your_email">Please enter your email</string>
+    <string name="email">Email</string>
+    <string name="sami_ullah">Sami Ullah</string>
+    <string name="vcs_and_github_assi">VCS_and_GitHub_assi</string>
+    <string name="reg_no_14304">Reg No : 14304</string>
+</resources>
